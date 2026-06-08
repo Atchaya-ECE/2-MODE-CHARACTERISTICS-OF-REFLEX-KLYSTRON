@@ -17,6 +17,7 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 9.	Cathode Ray Oscilloscope Scientech -801C
     
 **Experimental Setup:**
+
 <img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
 
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
@@ -53,9 +54,11 @@ Mechanical tuning depends on changing the width of cavity i.e. the effective I c
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
 **Observation: ( Include your own Table relevant to the Experiment)**
+
 <img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/6ca92cba-7ef3-438d-b316-89423e15f20d" />
 
 ## Graph
+
 <img width="971" height="1280" alt="WhatsApp Image 2026-06-02 at 10 30 24 PM" src="https://github.com/user-attachments/assets/7b4569a9-bc61-4182-8820-d6f455cafc46" />
 
 **CALCULATIONS:**
